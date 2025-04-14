@@ -1,1 +1,1 @@
-# gitstudy05
+# gitstudy05_clone
